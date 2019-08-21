@@ -1,0 +1,6 @@
+framework module FullCustomLoader_C {
+  umbrella header "FullCustomLoader_C-umbrella.h"
+
+  export *
+  module * { export * }
+}
