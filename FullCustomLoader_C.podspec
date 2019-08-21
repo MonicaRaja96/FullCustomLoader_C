@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'FullCustomLoader_C'
-s.version          = '1.2.0'
+s.version          = '1.3.0'
 s.swift_version    = '4.2'
 s.summary          = 'FullCustomLoader_C is simple library to show and animate the Material Loader'
 s.homepage         = 'https://github.com/MonicaRaja96/FullCustomLoader_C'
