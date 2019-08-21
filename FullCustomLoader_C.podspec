@@ -11,7 +11,7 @@ s.name             = 'FullCustomLoader_C'
 s.version          = '1.2.0'
 s.swift_version    = '4.2'
 s.summary          = 'FullCustomLoader_C is simple library to show and animate the Material Loader'
-s.homepage         = 'https://github.com/MonicaRaja96/FullCustomLoader_C.git'
+s.homepage         = 'https://github.com/MonicaRaja96/FullCustomLoader_C'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'MonicaRaja96' => 'monica.raja@anywhere.co' }
 s.source           = { :git => 'https://github.com/MonicaRaja96/FullCustomLoader_C.git', :tag => s.version.to_s }
